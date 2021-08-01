@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Paulo Quintino.
 
-- 🔭 Atualmente trabalho com Automação de Testes
-- 🌱 Estudando Javascript e NodeJS para desenvolvimento e automação de testes
+- 🔭 Atualmente trabalho como QA com especialidade em Automação de Testes para Web, Mobile e API's REST.
+- 🌱 Estudando Javascript e NodeJS para desenvolvimento e automação de testes.
 
 <!-- GITHUB STATS -->
  <div>
