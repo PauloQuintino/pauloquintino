@@ -1,4 +1,4 @@
-## Olá! Eu sou o Paulo Quintino.
+## Olá! Eu sou o Paulo Quintino.    <img align="right" src="https://gpvc.arturio.dev/PauloQuintino" alt="Profile views">
 
 - 🔭 Atualmente trabalho como QA com especialidade em Automação de Testes para Web, Mobile e API's REST.
 - 🌱 Estudando Javascript e NodeJS para desenvolvimento e automação de testes.
@@ -24,4 +24,4 @@
 <br>  
 <div>
   <a href="https://br.linkedin.com/in/paulo-quintino-freitas-de-souza-b85b3212b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+ </div>
