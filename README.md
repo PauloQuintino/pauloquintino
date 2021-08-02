@@ -6,9 +6,9 @@
 <!-- GITHUB STATS -->
  <div>
   <a href="https://github.com/pauloquintino">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=pauloquintino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloquintino&layout=compact&langs_count=7&theme=dark"/>
-   <img height="175rem" alt="Paulo-GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=pauloquintino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloquintino&layout=compact&langs_count=7&theme=dark"/>
+   <img height="155rem" alt="Paulo-GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 </div>
 <br>
 <div style="display: inline_block">
