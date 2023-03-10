@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Paulo Quintino.    <img align="right" src="https://gpvc.arturio.dev/PauloQuintino" alt="Profile views">
 
 - 🔭 Atualmente trabalho como QA com especialidade em Automação de Testes para Web, Mobile e API's REST.
-- 🌱 Estudando Javascript e NodeJS para desenvolvimento e automação de testes.
+- 🌱 Estudando e me aventurando no mundo do Game Dev.
 
 <!-- GITHUB STATS -->
  <div>
