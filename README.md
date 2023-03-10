@@ -2,13 +2,12 @@
 
 - 🔭 Atualmente trabalho como QA com especialidade em Automação de Testes para Web, Mobile e API's REST.
 - 🌱 Estudando e me aventurando no mundo do Game Dev.
-
+<br>
 <!-- GITHUB STATS -->
  <div>
-  <a href="https://github.com/pauloquintino">   
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloquintino&layout=compact&show_icons=true&theme=dark&include_all_commits=true"/>   
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloquintino&layout=compact&langs_count=7&theme=dark"/>
-   <img height="155rem" alt="Paulo-GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
+ <!--<a href="https://github.com/pauloquintino"></a> -->
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloquintino&layout=compact&show_icons=true&theme=dark&include_all_commits=true"/> 
+ <img height="155rem" alt="Paulo-GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
 </div>
 <br>
 <div style="display: inline_block">
