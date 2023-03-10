@@ -6,6 +6,7 @@
 <!-- GITHUB STATS -->
  <div>
  <!--<a href="https://github.com/pauloquintino"></a> -->
+ <img height="155em" src="https://github-readme-stats.vercel.app/api?username=pauloquintino&show_icons=true&theme=dark"/> 
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloquintino&layout=compact&show_icons=true&theme=dark&include_all_commits=true"/> 
  <img height="155rem" alt="Paulo-GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
 </div>
